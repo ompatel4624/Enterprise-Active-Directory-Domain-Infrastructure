@@ -19,7 +19,7 @@ Designed and implemented a centralized Windows Server 2022 Active Directory envi
 
 ## Architecture
 
-(Add architecture diagram here)
+![Enterprise Active Directory Architecture](screenshots/Architecture.png)
 
 ## Screenshots
 
