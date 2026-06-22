@@ -57,15 +57,15 @@ Designed and implemented a centralized Windows Server 2022 Active Directory envi
 
 ### Domain Join
 
-![Domain Join](screenshots/domain_join.jpg)
+![Domain Join](screenshots/Domain Join.jpg)
 
 ### Shared Drive Access
 
-![Drive Sharing](screenshots/drive_sharing.jpg)
+![Drive Sharing](screenshots/Drive Sharing.jpg)
 
 ### Access Restriction
 
-![Network Security](screenshots/network_drive_security.jpg)
+![Network Security](screenshots/Network Drive Security.jpg)
 
 ## Author
 
